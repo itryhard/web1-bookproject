@@ -7,6 +7,7 @@ colorIcon.addEventListener("click", () => {
 });
 
 colorPicker.addEventListener("input", (e) => {
+  // update CSS variable on color selection
   const newColor = e.target.value;
   const body = document.querySelector("body");
 
