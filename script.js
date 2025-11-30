@@ -26,7 +26,7 @@ themeToggling.addEventListener("click", () => {
 // ------ Search Icon ------:
 const searchIcon = document.getElementById("searchIcon");
 const searchInput = document.getElementById("searchInput");
-
+// toggle search field visibility
 searchIcon.addEventListener("click", () => {
   searchInput.classList.toggle("active");
 });
