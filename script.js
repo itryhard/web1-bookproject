@@ -14,7 +14,7 @@ colorPicker.addEventListener("input", (e) => {
   body.style.setProperty("--primary-blue", newColor);
 });
 
-// ------ Themes ------:
+// ------ Theme Switcher ------:
 const themeToggling = document.getElementById("theme");
 // Toggle dark/light mode on click
 themeToggling.addEventListener("click", () => {
