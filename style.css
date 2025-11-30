@@ -37,7 +37,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 62.5%; /* to make 1 rem equals to 10px, better for responsive */
   overflow-x: hidden;
 }
 
