@@ -6,7 +6,7 @@
   /* Primary color variables for light & dark modes */
   --primary-blue: #089da1;
   --text-gray: #676767;
-  --netural-black: #000000;
+  --netural-black: #000000; /* typo kept for compatibility */
   --netural-white: #ffffff;
   --featured-cards-name: #a1aabd;
   --dark-theme: #191d20;
