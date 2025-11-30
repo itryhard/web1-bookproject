@@ -32,6 +32,7 @@ searchIcon.addEventListener("click", () => {
 });
 
 // ------ Hamburger Icon ------:
+// cache navbar elements for responsive menu
 const hamburger = document.getElementById("hamburger");
 const mobileMenu = document.getElementById("mobileMenu");
 const closeMenu = document.getElementById("closeMenu");
