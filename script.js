@@ -39,7 +39,7 @@ const closeMenu = document.getElementById("closeMenu");
 hamburger.addEventListener("click", () => {
   mobileMenu.classList.add("active");
 });
-
+// close mobile menu panel
 closeMenu.addEventListener("click", () => {
   mobileMenu.classList.remove("active");
 });
