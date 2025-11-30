@@ -35,7 +35,7 @@ searchIcon.addEventListener("click", () => {
 const hamburger = document.getElementById("hamburger");
 const mobileMenu = document.getElementById("mobileMenu");
 const closeMenu = document.getElementById("closeMenu");
-
+// open mobile navigation panel
 hamburger.addEventListener("click", () => {
   mobileMenu.classList.add("active");
 });
