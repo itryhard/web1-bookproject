@@ -18,6 +18,7 @@ colorPicker.addEventListener("input", (e) => {
 const themeToggling = document.getElementById("theme");
 // Toggle dark/light mode on click
 themeToggling.addEventListener("click", () => {
+  // caching body for cleaner code
   const body = document.querySelector("body");
   body.classList.toggle("dark-theme");
 });
