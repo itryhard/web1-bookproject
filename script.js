@@ -35,6 +35,7 @@ searchIcon.addEventListener("click", () => {
 // cache navbar elements for responsive menu
 const hamburger = document.getElementById("hamburger");
 const mobileMenu = document.getElementById("mobileMenu");
+// close button for mobile navigation
 const closeMenu = document.getElementById("closeMenu");
 // open mobile navigation panel
 hamburger.addEventListener("click", () => {
