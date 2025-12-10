@@ -655,7 +655,7 @@ pre- photo realization:
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 10rem;
 
-    .blog-card {
+    .blog-card { /* nested css */
       box-shadow: 1px 1px 5px var(--text-gray);
 
       &:hover {
