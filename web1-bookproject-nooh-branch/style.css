@@ -1019,7 +1019,7 @@ IPHONE XR
     flex-direction: column;
     text-align: center;
   }
-  .digital-book {
+  .digital-book { /* the wide digital book picture adjusted in iphone xr since it keeps getting out of frame */
     height: 20rem;
     background-size: contain;
     background-position: center;
