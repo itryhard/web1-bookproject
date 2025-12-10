@@ -402,7 +402,7 @@ section {
     max-width: 130rem;
 
     &::-webkit-scrollbar-thumb {
-      background-color: var(--primary-blue);
+      background-color: var(--primary-blue); /* scrollbar color to be blue as seen in the demo */
       border-radius: 4px;
     }
 
