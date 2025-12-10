@@ -4,7 +4,7 @@
 /* ---------- VARIABLES ---------- */
 :root {
   /* Primary color variables for light & dark modes */
-  --primary-blue: #089da1;
+  --primary-blue: #089da1; /* main color for the whole project */
   --text-gray: #676767;
   --netural-black: #000000; /* typo kept for compatibility */
   --netural-white: #ffffff;
