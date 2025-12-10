@@ -733,7 +733,7 @@ pre- photo realization:
       min-width: 22rem;
       margin: 2rem;
 
-      .footer-logo {
+      .footer-logo { /* the logo in the left of the footer */
         width: 100%;
         max-width: 15rem;
         margin-bottom: 1.5rem;
