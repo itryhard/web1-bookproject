@@ -189,7 +189,7 @@ section {
     }
   }
 
-  .hamburger {
+  .hamburger { /* For dark theme */
     display: none;
     color: var(--netural-black);
   }
