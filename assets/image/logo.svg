@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="200" height="200">
+  <!-- Book outline -->
+  <path class="outline" d="M256 420C200 380 100 380 40 400V100C100 80 200 80 256 120C312 80 412 80 472 100V400C412 380 312 380 256 420Z" 
+    stroke-width="8"/>
+
+  <!-- Left page lines -->
+  <path class="pages" d="M70 140Q160 120 240 160" fill="none" stroke="black" stroke-width="3"/>
+  <path class="pages" d="M70 180Q160 160 240 200" fill="none" stroke="black" stroke-width="3"/>
+  <path class="pages" d="M70 220Q160 200 240 240" fill="none" stroke="black" stroke-width="3"/>
+  <path class="pages" d="M70 260Q160 240 240 280" fill="none" stroke="black" stroke-width="3"/>
+  <path class="pages" d="M70 300Q160 280 240 320" fill="none" stroke="black" stroke-width="3"/>
+
+  <!-- Right page lines -->
+  <path class="pages" d="M442 140Q352 120 272 160" fill="none" stroke="black" stroke-width="3"/>
+  <path class="pages" d="M442 180Q352 160 272 200" fill="none" stroke="black" stroke-width="3"/>
+  <path class="pages" d="M442 220Q352 200 272 240" fill="none" stroke="black" stroke-width="3"/>
+  <path class="pages" d="M442 260Q352 240 272 280" fill="none" stroke="black" stroke-width="3"/>
+  <path class="pages" d="M442 300Q352 280 272 320" fill="none" stroke="black" stroke-width="3"/>
+</svg>
